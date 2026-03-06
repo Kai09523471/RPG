@@ -6,7 +6,7 @@ let gameState = "TITLE"; // TITLE, PLAYING のいずれか
 
 // プレイヤーデータ
 let player = { x: 50, y: 50, size: 30, speed: 5 };
-let keys = {};
+let keys = };
 
 // キー入力の設定
 window.addEventListener("keydown", e => {
